@@ -330,9 +330,9 @@ section {
 /*Timeline*/
 .timeline {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 2rem;
-    padding-bottom: 3rem;
+    grid-template-columns: auto ;
+    grid-gap: 1rem;
+    padding-bottom: 5rem;
     .timeline-item {
         position: relative;
         padding-left: 3rem;
